@@ -1,4 +1,4 @@
-# Ex.No: 10  Pytest program for Sum of digits
+# Ex.No: 10  To write a python program for Fibonacci Series and generate test cases using Pytest.
 
 ### DATE:                                                                            
 ### REGISTER NUMBER : 212221040126
